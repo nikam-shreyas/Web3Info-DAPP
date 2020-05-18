@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/Bnjh9sh/Screenshot-from-2020-05-18-18-23-37.png"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Reference: https://docs.openzeppelin.com/network-js/0.2/building-a-dapp-from-scratch
